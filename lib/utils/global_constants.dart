@@ -1,0 +1,1 @@
+const String transhSupportChat = "https://t.me/transh_support";
